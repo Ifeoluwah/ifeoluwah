@@ -1,4 +1,4 @@
-# 🌟 Hi, I'm Ifeoluwa Jayeola
+# Hi, I'm Ifeoluwa Jayeola
 
 Data Scientist & LLM Engineer based in Manchester, UK.  
 I build production‑ready machine learning systems, scalable NLP pipelines, and agentic workflows that solve real business problems across payments, energy, utilities, and logistics.
@@ -7,7 +7,7 @@ My work spans **predictive modelling**, **LLM fine‑tuning**, **NLP automation*
 
 ---
 
-## 🔬 Current Focus Areas
+##  Current Focus Areas
 
 - **LLM Fine‑Tuning & Optimization**  
   GPT‑40, LLaMA 3.1, T5, BERT — specialising in domain adaptation, prompt engineering, and evaluation of model consistency.
@@ -23,7 +23,7 @@ My work spans **predictive modelling**, **LLM fine‑tuning**, **NLP automation*
 
 ---
 
-## 🧪 Selected Work
+##  Selected Work
 
 ### **Scalable Churn Prediction Pipeline — Clear Business**  
 Production‑grade churn models deployed via Databricks, MLflow, and CI/CD.  
@@ -51,7 +51,7 @@ Interactive web app for exploring topic‑driven recommendations.
 
 ---
 
-## ⚙️ Technical Stack
+##  Technical Stack
 
 **Languages:** Python, SQL  
 **ML:** scikit‑learn, XGBoost, LightGBM, PyTorch, TensorFlow  
@@ -64,7 +64,7 @@ Interactive web app for exploring topic‑driven recommendations.
 
 ---
 
-## 📚 Education
+##  Education
 
 **MSc Data Science & Artificial Intelligence (Distinction)**  
 University of Liverpool
@@ -74,7 +74,7 @@ Covenant University
 
 ---
 
-## 🌐 Links
+## Links
 
 - **Email:** ifeoluwajayeolaa@gmail.com  
 - **LinkedIn:** (https://www.linkedin.com/in/ifeoluwa-jayeola/)  
