@@ -3,7 +3,7 @@
 Data Scientist & LLM Engineer based in Manchester, UK.  
 I build production‑ready machine learning systems, scalable NLP pipelines, and agentic workflows that solve real business problems across payments, energy, utilities, and logistics.
 
-My work spans **predictive modelling**, **LLM fine‑tuning**, **NLP automation**, **MLOps**, and **experiment design** — with a strong focus on delivering measurable impact, reliability, and operational efficiency.
+My work spans **predictive modelling**, **LLM fine‑tuning**, **NLP automation**, **MLOps**, and **experiment design**, with a strong focus on delivering measurable impact, reliability, and operational efficiency.
 
 ---
 
