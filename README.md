@@ -25,6 +25,13 @@ My work spans **predictive modelling**, **LLM fine‑tuning**, **NLP automation*
 
 ##  Selected Work
 
+### **Systematic Probing of Exploit Chains and Governance in Multi-Agent Tool-Using Language Models — Base Research Lab**  
+[Spec‑Gap on GitHub](https://github.com/base-research-lab/spec-gap)  
+Evaluated LLMs using **Spec‑Gap**, a framework for measuring how closely models follow explicit task specifications.  
+Designed experiments assessing instruction‑adherence gaps across GPT‑40, LLaMA 3.1, and T5.  
+Improved prompt‑design strategies and consistency metrics for high‑stakes automation workflows.
+
+
 ### **Scalable Churn Prediction Pipeline — Clear Business**  
 Production‑grade churn models deployed via Databricks, MLflow, and CI/CD.  
 Advanced feature engineering, class imbalance handling, and governance‑aligned traceability.
