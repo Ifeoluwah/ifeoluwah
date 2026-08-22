@@ -14,17 +14,6 @@ I build production-ready machine learning systems, scalable NLP pipelines, and a
 ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-black?style=flat-square&logo=huggingface)
 
 ---
-
-## Quick Facts
-
-| | |
-|---|---|
-| **Experience** | 5+ years across payments, insurance, energy, telecoms & frontier AI research |
-| **Currently** | Data Scientist @ Clear Business · AI Research Fellow @ BASE |
-| **Focus** | LLM Fine-Tuning & Optimisation, Predictive modelling, MLOps, NLP pipelines, agentic systems |
-
----
-
 ## Technical Stack
 
 - **Languages:** Python, SQL
