@@ -21,56 +21,7 @@ I build production-ready machine learning systems, scalable NLP pipelines, and a
 |---|---|
 | **Experience** | 5+ years across payments, insurance, energy, telecoms & frontier AI research |
 | **Currently** | Data Scientist @ Clear Business · AI Research Fellow @ BASE |
-| **Focus** | Predictive modelling, MLOps, NLP pipelines, agentic systems |
-| **Notable results** | 75.3% oil-production forecast accuracy · 87% precision on failure prediction · 22.73% faster complaint resolution |
-
----
-
-## Current Focus Areas
-
-- **Predictive Modelling & Experimentation**
-  Churn scoring, CLV modelling, uplift modelling, demand/production forecasting, A/B testing frameworks — built with GBDTs, random forests, SVMs, k-NN, and neural networks.
-- **NLP Pipelines at Scale**
-  Document extraction, topic modelling, semantic search, transformer-based classification.
-- **Agentic Workflows & Automation**
-  Multi-step pipelines for document parsing, onboarding automation, and customer-service augmentation.
-- **LLM Fine-Tuning & Optimisation**
-  GPT-4o, LLaMA 3.1, T5, BERT — domain adaptation, prompt engineering, and evaluation of model consistency.
-
----
-
-## Selected Work
-
-### Machine Learning & Predictive Systems
-
-**Scalable Churn Prediction Pipeline** — *Clear Business*
-Production-grade churn models deployed via Databricks, MLflow, and CI/CD, with advanced feature engineering, class-imbalance handling, and governance-aligned traceability.
-
-**Predictive Maintenance & Production Forecasting** — *NewCross EP*
-XGBoost pipelines predicting equipment failures with 87% precision. PyTorch/TensorFlow time-series models achieving 75.3% accuracy in oil-production forecasting.
-
-**Payment Behaviour & Risk Scoring Model** — *Clear Business*
-Statistical payment-behaviour and likelihood-scoring framework for B2B clients, combining Direct Debit patterns, recency-weighted trends, and confidence intervals to forecast cashflow and reduce liquidity risk.
-
-**Delivery Time Prediction & Complaint Classification** — *Selbolt*
-Transformer-based text classification improving resolution speed by 22.73%, with sentiment analysis and topic modelling integrated into Power BI dashboards.
-
-### NLP & Search
-
-**Insurance Document Parsing Workflow** — *Clear Business*
-Automated extraction from 20,000+ insurance documents via robust parsing pipelines, improving onboarding efficiency and data integrity.
-
-**Topic-Based Search Ranking Algorithm** — *MSc Project*
-Semantic search system built with LDA, LSI, BERT, and Sentence Transformers, wrapped in an interactive web app for exploring topic-driven recommendations.
-
-### LLM & Agentic Systems
-
-**LLM-Driven Email Automation (ID&V)** — *Clear Business*
-Fine-tuned LLaMA 3.1 (70B) and GPT-4o using LangChain to automate ID&V checks, reducing resolution time and improving compliance alignment.
-
-**Systematic Probing of Exploit Chains and Governance in Multi-Agent Tool-Using Language Models** — *BASE Research Lab*
-[Spec-Gap on GitHub](https://github.com/base-research-lab/spec-gap)
-Evaluated LLMs using Spec-Gap, a framework for measuring how closely models follow explicit task specifications. Designed experiments assessing instruction-adherence gaps across GPT-4o, LLaMA 3.1, and T5, improving prompt-design strategies and consistency metrics for high-stakes automation workflows.
+| **Focus** | LLM Fine-Tuning & Optimisation, Predictive modelling, MLOps, NLP pipelines, agentic systems |
 
 ---
 
@@ -88,13 +39,6 @@ Evaluated LLMs using Spec-Gap, a framework for measuring how closely models foll
 
 ---
 
-## Education
-
-**MSc Data Science & Artificial Intelligence (Distinction)** — University of Liverpool
-
-**BEng Petroleum Engineering (Hons)** — Covenant University
-
----
 
 ## Links
 
